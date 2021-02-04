@@ -1,4 +1,4 @@
-You need to following things in order to use this test framework
+You need to follow the below things in order to use this testing framework
  . Install the java (JDK)
  . Install the node
  . Install the npm
