@@ -3,25 +3,25 @@ import { TestBuildingBlocks } from '../../../src/infra/utilities/testBuildingBlo
 import { TestLogger } from '../../../src/infra/loggers/test-logger';
 import { MangoPricing } from '../../../src/pages/MangopayPages/mangoPay/mangopay.page';
 import { BaseTestData } from "../../../src/infra/models/base-test-data";
-import { JellycoreTestBuildingBlocks } from '../../../src/infra/utilities/test-BuildingBlock';
+import { MangoPayTestBuildingBlocks } from '../../../src/infra/utilities/test-BuildingBlock';
 
 let mangoPriceing = new MangoPricing();
 let logger: TestLogger;
 let testIndex = 0;
 let testData: BaseTestData = new BaseTestData(undefined);
-let jellycoreTestBuildingBlocks = new JellycoreTestBuildingBlocks(testData);
+let mangoPayTestBuildingBlocks = new MangoPayTestBuildingBlocks(testData);
 
 
 describe('Mangopay Problématique 2 ', () => {
 
     before(() => {
         logger = new TestLogger();
-        mangoPriceing = jellycoreTestBuildingBlocks.navigateToMangoPrice();
+        mangoPriceing = mangoPayTestBuildingBlocks.navigateToMangoPrice();
     });
 
     beforeEach(() => {
         testIndex++;
-        mangoPriceing = jellycoreTestBuildingBlocks.navigateToMangoPrice();
+        mangoPriceing = mangoPayTestBuildingBlocks.navigateToMangoPrice();
     });
 
     it('Verify that Pricing page URL is displaying or not', () => {
