@@ -1,0 +1,14 @@
+image: node:8.10
+services:
+    - selenium/standalone-chrome:latest
+
+build:
+  stage: build
+  script:
+    - echo
+
+test1:
+  stage: test
+  script:
+    - npm install
+    - npm run specFBLoginHeadless --host=selenium__standalone-chrome
