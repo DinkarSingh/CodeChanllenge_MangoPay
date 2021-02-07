@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "mangoPay": "ENV=preprod wdio ./wdio.conf.js --spec ./test/specs/Core/mangopay.spec.ts",
+    "mangoPayHeadless": "cross-env ENV=preprod HEADLESS=true wdio wdio.conf.js --spec ./test/specs/Core/mangopay.spec.ts",
     "report": "allure generate allure-results/ --clean && allure open"
   },
   "keywords": [],

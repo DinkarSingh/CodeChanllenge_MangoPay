@@ -46,23 +46,7 @@ exports.config = {
     specs: [
         './test/specs/**/*.spec.ts'
     ],
-
-    suites: {
-        jellyCore: [
-            './test/specs/jellyCore/coreLogin.spec.ts',
-            './test/specs/jellyCore/home.spec.ts',
-            './test/specs/jellyCore/user.spec.ts',
-            './test/specs/jellyCore/settingUser.spec.ts',
-            './test/specs/jellyCore/verticals.spec.ts',
-            './test/specs/jellyCore/channel.spec.ts',
-            './test/specs/jellyCore/creators.spec.ts',
-            './test/specs/jellyCore/newPost.spec.ts',
-            './test/specs/jellyCore/posts.spec.ts',
-            './test/specs/jellyCore/planning.spec.ts',
-            './test/specs/jellyCore/abtest.spec.ts',
-            './test/specs/jellyCore/logout.spec.ts',
-        ]
-    },
+    
     // Patterns to exclude.
     exclude: [
         // 'path/to/excluded/files'
