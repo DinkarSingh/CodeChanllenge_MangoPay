@@ -13,7 +13,6 @@ let mangoPayTestBuildingBlocks = new MangoPayTestBuildingBlocks(testData);
 
 
 describe('Mangopay Problématique 2 ', () => {
-
     before(() => {
         logger = new TestLogger();
         mangoPriceing = mangoPayTestBuildingBlocks.navigateToMangoPrice();
