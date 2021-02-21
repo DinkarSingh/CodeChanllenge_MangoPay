@@ -1,0 +1,17 @@
+23:05:24.791 INFO [ActiveSessionFactory.apply] - Capabilities are: {
+  "acceptInsecureCerts": true,
+  "browserName": "chrome",
+  "goog:chromeOptions": {
+    "args": [
+      "--headless",
+      "--disable-gpu",
+      "--window-size=1920,1080"
+    ]
+  }
+}
+23:05:24.792 INFO [ActiveSessionFactory.lambda$apply$11] - Matched factory org.openqa.selenium.grid.session.remote.ServicedSession$Factory (provider: org.openqa.selenium.chrome.ChromeDriverService)
+Starting ChromeDriver 2.44.609545 (c2f88692e98ce7233d2df7c724465ecacfe74df5) on port 21148
+Only local connections are allowed.
+23:05:25.814 INFO [ProtocolHandshake.createSession] - Detected dialect: OSS
+23:05:25.971 INFO [RemoteSession$Factory.lambda$performHandshake$0] - Started new session 9ec40702e44950320416528938ba998c (org.openqa.selenium.chrome.ChromeDriverService)
+23:06:11.924 INFO [ActiveSessions$1.onStop] - Removing session 9ec40702e44950320416528938ba998c (org.openqa.selenium.chrome.ChromeDriverService)

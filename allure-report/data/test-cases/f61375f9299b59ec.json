@@ -1,0 +1,135 @@
+{
+  "uid" : "f61375f9299b59ec",
+  "name" : "Verify that language can change from the language panel",
+  "fullName" : "Mangopay Problématique 2 .Verify that language can change from the language panel",
+  "historyId" : "31ab5c25c2bae20fcfb0b683e9825a2d",
+  "time" : {
+    "start" : 1612390772134,
+    "stop" : 1612390781063,
+    "duration" : 8929
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verfy that Mangopay pricing page is displaying",
+      "time" : {
+        "start" : 1612390775329,
+        "stop" : 1612390776476,
+        "duration" : 1147
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Country button",
+      "time" : {
+        "start" : 1612390776476,
+        "stop" : 1612390776577,
+        "duration" : 101
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Select the language form the list as FR",
+      "time" : {
+        "start" : 1612390776577,
+        "stop" : 1612390779988,
+        "duration" : 3411
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "bf36d5804ca0be8e",
+      "name" : "Execution video",
+      "source" : "bf36d5804ca0be8e.mp4",
+      "type" : "video/mp4",
+      "size" : 25232
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testClass",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that language can change from the language panel"
+  }, {
+    "name" : "package",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c2067b2715953eaa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612373168528,
+        "stop" : 1612373177127,
+        "duration" : 8599
+      }
+    }, {
+      "uid" : "3703bcf03a032b6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612372646447,
+        "stop" : 1612372655225,
+        "duration" : 8778
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f61375f9299b59ec.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}

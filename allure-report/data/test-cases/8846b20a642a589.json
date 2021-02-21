@@ -1,0 +1,177 @@
+{
+  "uid" : "8846b20a642a589",
+  "name" : "Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value",
+  "fullName" : "Mangopay Problématique 2 .Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value",
+  "historyId" : "c45d630806af9bc15a63c7f22eb4dea6",
+  "time" : {
+    "start" : 1612372676484,
+    "stop" : 1612372692439,
+    "duration" : 15955
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verfy that mangopay pricing page is displaying",
+      "time" : {
+        "start" : 1612372679480,
+        "stop" : 1612372680547,
+        "duration" : 1067
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Country button",
+      "time" : {
+        "start" : 1612372680547,
+        "stop" : 1612372680615,
+        "duration" : 68
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Select the language form the list as FR",
+      "time" : {
+        "start" : 1612372680615,
+        "stop" : 1612372683722,
+        "duration" : 3107
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Select the pricing option as REMISE DE VOLUME",
+      "time" : {
+        "start" : 1612372683722,
+        "stop" : 1612372684918,
+        "duration" : 1196
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Verify that payment option as Visa & Mastercard",
+      "time" : {
+        "start" : 1612372684918,
+        "stop" : 1612372687202,
+        "duration" : 2284
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Verify that pricing slider tooltip is playing or not",
+      "time" : {
+        "start" : 1612372687202,
+        "stop" : 1612372687248,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Move the vertical pricing slider and check the tooltip valus is changing or not",
+      "time" : {
+        "start" : 1612372687248,
+        "stop" : 1612372691409,
+        "duration" : 4161
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "6f52417dc792d4b7",
+      "name" : "Execution video",
+      "source" : "6f52417dc792d4b7.mp4",
+      "type" : "video/mp4",
+      "size" : 36424
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testClass",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value"
+  }, {
+    "name" : "package",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8846b20a642a589.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}

@@ -1,0 +1,147 @@
+{
+  "uid" : "6e131159cfe4e538",
+  "name" : "Verify that payment options can select from the list",
+  "fullName" : "Mangopay Problématique 2 .Verify that payment options can select from the list",
+  "historyId" : "d5d843225ef6e9348357b0bdf88c55f",
+  "time" : {
+    "start" : 1612373186762,
+    "stop" : 1612373198545,
+    "duration" : 11783
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verfy that Mangopay pricing page is displaying",
+      "time" : {
+        "start" : 1612373189808,
+        "stop" : 1612373190892,
+        "duration" : 1084
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Click on Country button",
+      "time" : {
+        "start" : 1612373190892,
+        "stop" : 1612373190968,
+        "duration" : 76
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Select the language form the list as FR",
+      "time" : {
+        "start" : 1612373190968,
+        "stop" : 1612373193963,
+        "duration" : 2995
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Select the transparent pricing option as REMISE DE VOLUME and check REMISE DE VOLUME is selected",
+      "time" : {
+        "start" : 1612373193963,
+        "stop" : 1612373195179,
+        "duration" : 1216
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Verify that payment option as Visa & Mastercard",
+      "time" : {
+        "start" : 1612373195179,
+        "stop" : 1612373197509,
+        "duration" : 2330
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "99876d9d0a3013e8",
+      "name" : "Execution video",
+      "source" : "99876d9d0a3013e8.mp4",
+      "type" : "video/mp4",
+      "size" : 32915
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testClass",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that payment options can select from the list"
+  }, {
+    "name" : "package",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e131159cfe4e538.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}

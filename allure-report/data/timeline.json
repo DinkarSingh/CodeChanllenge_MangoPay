@@ -1,0 +1,204 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "Verify that transparent pricing can select REMISE DE VOLUME",
+      "uid" : "907c94e92481a474",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612390781065,
+        "stop" : 1612390791712,
+        "duration" : 10647
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that transparent pricing can select REMISE DE VOLUME",
+      "uid" : "4282fbcaf1b75446",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612372655228,
+        "stop" : 1612372664665,
+        "duration" : 9437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that language can change from the language panel",
+      "uid" : "c2067b2715953eaa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612373168528,
+        "stop" : 1612373177127,
+        "duration" : 8599
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that Pricing page URL is displaying or not",
+      "uid" : "1da069876ab1f5ab",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612373161496,
+        "stop" : 1612373168523,
+        "duration" : 7027
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that language can change from the language panel",
+      "uid" : "3703bcf03a032b6a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612372646447,
+        "stop" : 1612372655225,
+        "duration" : 8778
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value",
+      "uid" : "8846b20a642a589",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612372676484,
+        "stop" : 1612372692439,
+        "duration" : 15955
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that payment options can select from the list",
+      "uid" : "885a79cdd43ca09",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612372664667,
+        "stop" : 1612372676482,
+        "duration" : 11815
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that Pricing page URL is displaying or not",
+      "uid" : "b636dabfe6c003f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612390763263,
+        "stop" : 1612390772131,
+        "duration" : 8868
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that payment options can select from the list",
+      "uid" : "6e131159cfe4e538",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612373186762,
+        "stop" : 1612373198545,
+        "duration" : 11783
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that Pricing page URL is displaying or not",
+      "uid" : "82fb98a7d3e95b06",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612372638453,
+        "stop" : 1612372646444,
+        "duration" : 7991
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that language can change from the language panel",
+      "uid" : "f61375f9299b59ec",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612390772134,
+        "stop" : 1612390781063,
+        "duration" : 8929
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value",
+      "uid" : "99bc256bb014f5b1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612390804109,
+        "stop" : 1612390821202,
+        "duration" : 17093
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that transparent pricing can select REMISE DE VOLUME",
+      "uid" : "61a567c86e2dadf2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612373177129,
+        "stop" : 1612373186759,
+        "duration" : 9630
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value",
+      "uid" : "324362771827d152",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612373198547,
+        "stop" : 1612373214621,
+        "duration" : 16074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    }, {
+      "name" : "Verify that payment options can select from the list",
+      "uid" : "7ddc46f593d591bb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612390791715,
+        "stop" : 1612390804107,
+        "duration" : 12392
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-88.0.4324.96" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

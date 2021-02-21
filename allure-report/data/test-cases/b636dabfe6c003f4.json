@@ -1,0 +1,105 @@
+{
+  "uid" : "b636dabfe6c003f4",
+  "name" : "Verify that Pricing page URL is displaying or not",
+  "fullName" : "Mangopay Problématique 2 .Verify that Pricing page URL is displaying or not",
+  "historyId" : "7e9746c277392dd2822725cbf9a6f1f",
+  "time" : {
+    "start" : 1612390763263,
+    "stop" : 1612390772131,
+    "duration" : 8868
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verfy that mangopay pricing page is displaying",
+      "time" : {
+        "start" : 1612390768916,
+        "stop" : 1612390770017,
+        "duration" : 1101
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b960e2d9b4ed7961",
+      "name" : "Execution video",
+      "source" : "b960e2d9b4ed7961.mp4",
+      "type" : "video/mp4",
+      "size" : 35613
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testClass",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Pricing page URL is displaying or not"
+  }, {
+    "name" : "package",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1da069876ab1f5ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612373161496,
+        "stop" : 1612373168523,
+        "duration" : 7027
+      }
+    }, {
+      "uid" : "82fb98a7d3e95b06",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612372638453,
+        "stop" : 1612372646444,
+        "duration" : 7991
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b636dabfe6c003f4.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}

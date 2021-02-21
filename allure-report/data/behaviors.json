@@ -1,0 +1,70 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Verify that Pricing page URL is displaying or not",
+    "uid" : "b636dabfe6c003f4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612390763263,
+      "stop" : 1612390772131,
+      "duration" : 8868
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-88.0.4324.96" ]
+  }, {
+    "name" : "Verify that language can change from the language panel",
+    "uid" : "f61375f9299b59ec",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612390772134,
+      "stop" : 1612390781063,
+      "duration" : 8929
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-88.0.4324.96" ]
+  }, {
+    "name" : "Verify that transparent pricing can select REMISE DE VOLUME",
+    "uid" : "907c94e92481a474",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612390781065,
+      "stop" : 1612390791712,
+      "duration" : 10647
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-88.0.4324.96" ]
+  }, {
+    "name" : "Verify that payment options can select from the list",
+    "uid" : "7ddc46f593d591bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612390791715,
+      "stop" : 1612390804107,
+      "duration" : 12392
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-88.0.4324.96" ]
+  }, {
+    "name" : "Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value",
+    "uid" : "99bc256bb014f5b1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1612390804109,
+      "stop" : 1612390821202,
+      "duration" : 17093
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-88.0.4324.96" ]
+  } ]
+}

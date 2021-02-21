@@ -1,0 +1,236 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1612390763262' stop='1612390821205'>
+    <name>Mangopay Problématique 2 </name>
+    <title>Mangopay Problématique 2 </title>
+    <test-cases>
+        <test-case start='1612390763263' status='passed' stop='1612390772131'>
+            <name>Verify that Pricing page URL is displaying or not</name>
+            <title>Verify that Pricing page URL is displaying or not</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+            </parameters>
+            <steps>
+                <step start='1612390768916' status='passed' stop='1612390770017'>
+                    <name>Verfy that mangopay pricing page is displaying</name>
+                    <title>Verfy that mangopay pricing page is displaying</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Execution video' source='d52f2b6c-b1ec-4141-be79-34f34c756808-attachment.mp4' type='video/mp4' size='152'/>
+            </attachments>
+        </test-case>
+        <test-case start='1612390772134' status='passed' stop='1612390781063'>
+            <name>Verify that language can change from the language panel</name>
+            <title>Verify that language can change from the language panel</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+            </parameters>
+            <steps>
+                <step start='1612390775329' status='passed' stop='1612390776476'>
+                    <name>Verfy that Mangopay pricing page is displaying</name>
+                    <title>Verfy that Mangopay pricing page is displaying</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390776476' status='passed' stop='1612390776577'>
+                    <name>Click on Country button</name>
+                    <title>Click on Country button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390776577' status='passed' stop='1612390779988'>
+                    <name>Select the language form the list as FR</name>
+                    <title>Select the language form the list as FR</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Execution video' source='3572916b-88e4-47a0-a6c2-3b25362fd6de-attachment.mp4' type='video/mp4' size='158'/>
+            </attachments>
+        </test-case>
+        <test-case start='1612390781065' status='passed' stop='1612390791712'>
+            <name>Verify that transparent pricing can select REMISE DE VOLUME</name>
+            <title>Verify that transparent pricing can select REMISE DE VOLUME</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+            </parameters>
+            <steps>
+                <step start='1612390784408' status='passed' stop='1612390785538'>
+                    <name>Verfy that Mangopay pricing page is displaying</name>
+                    <title>Verfy that Mangopay pricing page is displaying</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390785538' status='passed' stop='1612390785613'>
+                    <name>Click on Country button</name>
+                    <title>Click on Country button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390785613' status='passed' stop='1612390789122'>
+                    <name>Select the language form the list as FR</name>
+                    <title>Select the language form the list as FR</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390789123' status='passed' stop='1612390790642'>
+                    <name>Select the transparent pricing option as REMISE DE VOLUME and check REMISE DE VOLUME is selected</name>
+                    <title>Select the transparent pricing option as REMISE DE VOLUME and check REMISE DE VOLUME is selected</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Execution video' source='a79a056b-3d80-4997-b3c9-85fb4940c2be-attachment.mp4' type='video/mp4' size='162'/>
+            </attachments>
+        </test-case>
+        <test-case start='1612390791715' status='passed' stop='1612390804107'>
+            <name>Verify that payment options can select from the list</name>
+            <title>Verify that payment options can select from the list</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+            </parameters>
+            <steps>
+                <step start='1612390794860' status='passed' stop='1612390795960'>
+                    <name>Verfy that Mangopay pricing page is displaying</name>
+                    <title>Verfy that Mangopay pricing page is displaying</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390795960' status='passed' stop='1612390796042'>
+                    <name>Click on Country button</name>
+                    <title>Click on Country button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390796042' status='passed' stop='1612390799189'>
+                    <name>Select the language form the list as FR</name>
+                    <title>Select the language form the list as FR</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390799189' status='passed' stop='1612390800559'>
+                    <name>Select the transparent pricing option as REMISE DE VOLUME and check REMISE DE VOLUME is selected</name>
+                    <title>Select the transparent pricing option as REMISE DE VOLUME and check REMISE DE VOLUME is selected</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390800559' status='passed' stop='1612390803038'>
+                    <name>Verify that payment option as Visa &amp; Mastercard</name>
+                    <title>Verify that payment option as Visa &amp; Mastercard</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Execution video' source='0e341fb7-cc94-4245-b22c-1674733a658d-attachment.mp4' type='video/mp4' size='155'/>
+            </attachments>
+        </test-case>
+        <test-case start='1612390804109' status='passed' stop='1612390821202'>
+            <name>Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value</name>
+            <title>Verify that MONTHLY PAY-IN VOLUMES vertical slider can change the value</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+                <parameter kind='argument' name='browser' value='chrome-88.0.4324.96'/>
+            </parameters>
+            <steps>
+                <step start='1612390807184' status='passed' stop='1612390808336'>
+                    <name>Verfy that mangopay pricing page is displaying</name>
+                    <title>Verfy that mangopay pricing page is displaying</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390808336' status='passed' stop='1612390808419'>
+                    <name>Click on Country button</name>
+                    <title>Click on Country button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390808419' status='passed' stop='1612390811726'>
+                    <name>Select the language form the list as FR</name>
+                    <title>Select the language form the list as FR</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390811726' status='passed' stop='1612390813133'>
+                    <name>Select the pricing option as REMISE DE VOLUME</name>
+                    <title>Select the pricing option as REMISE DE VOLUME</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390813133' status='passed' stop='1612390815599'>
+                    <name>Verify that payment option as Visa &amp; Mastercard</name>
+                    <title>Verify that payment option as Visa &amp; Mastercard</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390815599' status='passed' stop='1612390815658'>
+                    <name>Verify that pricing slider tooltip is playing or not</name>
+                    <title>Verify that pricing slider tooltip is playing or not</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1612390815658' status='passed' stop='1612390820138'>
+                    <name>Move the vertical pricing slider and check the tooltip valus is changing or not</name>
+                    <title>Move the vertical pricing slider and check the tooltip valus is changing or not</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title='Execution video' source='953cac4c-d4bb-46ba-a2ae-953c34d9cb95-attachment.mp4' type='video/mp4' size='174'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

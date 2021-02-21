@@ -1,0 +1,87 @@
+{
+  "uid" : "1da069876ab1f5ab",
+  "name" : "Verify that Pricing page URL is displaying or not",
+  "fullName" : "Mangopay Problématique 2 .Verify that Pricing page URL is displaying or not",
+  "historyId" : "7e9746c277392dd2822725cbf9a6f1f",
+  "time" : {
+    "start" : 1612373161496,
+    "stop" : 1612373168523,
+    "duration" : 7027
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verfy that mangopay pricing page is displaying",
+      "time" : {
+        "start" : 1612373165355,
+        "stop" : 1612373165363,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "60f27dc95a5cf0b5",
+      "name" : "Execution video",
+      "source" : "60f27dc95a5cf0b5.mp4",
+      "type" : "video/mp4",
+      "size" : 35613
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testClass",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify that Pricing page URL is displaying or not"
+  }, {
+    "name" : "package",
+    "value" : "Mangopay Problématique 2 "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-88.0.4324.96"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1da069876ab1f5ab.json",
+  "parameterValues" : [ "chrome-88.0.4324.96" ]
+}
